@@ -19,8 +19,6 @@ from kmeans import *
 DATA_FILE = 'dataset/data.csv'
 USERINFO_FILE = 'dataset/userinfo.csv'
 
-#DATA_FILE = 'new_data.csv'
-#USERINFO_FILE = 'new_userinfo.csv'
 
 DEFINE_FILE = 'define.py'
 
