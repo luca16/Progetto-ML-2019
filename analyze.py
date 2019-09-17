@@ -17,6 +17,7 @@ HEALT_MODEL_FILE = 'model/{}_{}_healt_svm.pkl'
 SLEEP_MODEL_FILE = 'model/{}_{}_sleep_svm.pkl'
 ACTIVITY_MODEL_FILE = 'model/{}_{}_activity_svm.pkl'
 
+# esempio input dati di un utente
 DATA_FILE = 'data_analisys.csv'
 
 df1 = pd.read_csv(DATA_FILE, names=['data_type','value'])
